@@ -1,0 +1,9 @@
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SpeedometerApp5\SpeedometerApp5\bin\Debug\SpeedometerApp5.exe.config
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SpeedometerApp5\SpeedometerApp5\bin\Debug\SpeedometerApp5.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SpeedometerApp5\SpeedometerApp5\bin\Debug\SpeedometerApp5.pdb
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SpeedometerApp5\SpeedometerApp5\obj\Debug\SpeedometerApp5.csprojResolveAssemblyReference.cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SpeedometerApp5\SpeedometerApp5\obj\Debug\SpeedometerApp5.SpeedometerForm.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SpeedometerApp5\SpeedometerApp5\obj\Debug\SpeedometerApp5.Properties.Resources.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SpeedometerApp5\SpeedometerApp5\obj\Debug\SpeedometerApp5.csproj.GenerateResource.Cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SpeedometerApp5\SpeedometerApp5\obj\Debug\SpeedometerApp5.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SpeedometerApp5\SpeedometerApp5\obj\Debug\SpeedometerApp5.pdb
